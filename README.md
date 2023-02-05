@@ -1,5 +1,5 @@
 # Learn SQL
-IIf you haven't already make sure you watch [this video](https://youtu.be/p3qvj9hO_Bo) which will teach you all the basics of SQL in 60 minutes.
+iIiiiiiiiiiiiiiialready make sure you watch [this video](https://youtu.be/p3qvj9hO_Bo) which will teach you all the basics of SQL in 60 minutes.
 
 After watching the video try to complete the exercises listed below using the data provided in this repository.
 
