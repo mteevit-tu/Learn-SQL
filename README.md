@@ -1,3 +1,10 @@
+Prerapong Ramunudom       Student id: 6509035223
+Kanokporn Sukeerat        Student id: 6509035041
+Poonyisa  Thongsriri      Student id: 6509035157
+Teevit    Lertchaturaporn Student id: 6509035082
+Rattakorn Keatprakob      Student id: 6509035165
+
+
 # Learn SQL
 iIiiiiiiiiiiiiiialready make sure you watch [this video](https://youtu.be/p3qvj9hO_Bo) which will teach you all the basics of SQL in 60 minutes.
 
